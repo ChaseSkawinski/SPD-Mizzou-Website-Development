@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	<link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css"/>
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css"/>
+    <link rel="stylesheet" href="contactcss.css"/>
+	<link rel="shortcut icon" href="icon.ico"/>
+	</head>
+	
+<title>Contact - &#931 &#934 &#916 Mizzou</title>
+
+	<body>
+		<div class="nav">
+      <div class="container">
+       <ul class="pull-left">
+          <li><a href="#">Log In</a></li>
+          <li><a href="#">Alumni</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="#">Join Sigma Phi Delta</a></li>
+          <li><a href="#">Parents</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+	
+	<div class = "head">
+		<div class = "container">
+			<h1>Feel that uncontrollable tingling sensation?</h1>
+			<h3>That is your undying urge to contact us.</h3>
+		</div>
+	</div>
+	
+	<div class = "contacts">
+		<div class = "container">
+		<h1>Contact Us</h1>
+		<p>Email: SigmaPhiDeltaMizzou@gmail.com</p>
+		<h1>Officers</h1>
+			<div class = "row">
+				<div class = "col-md-4">
+					
+					<h4>President</h4>
+					<h4>Vice President</h4>
+					<h4>Treasurer</h4>
+					<h4>Recruitment Chair(s)</h4>
+					<h4>Secratary</h4>
+				</div>
+				<div class = "col-md-4">
+					
+					<h4>Social Chair(s)</h4>
+					<h4>Risk Reduction Chair</h4>
+					<h4>Recruitment Chair(s)</h4>
+					<h4>Historian</h4>
+					<h4>Webmaster</h4>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="learn-more">
+	  <div class="container">
+		<div class="row">
+	      <div class="col-md-4">
+			<h3>Learn More</h3>
+			<p>Learn More About the History of Sigma Phi Delta</p>
+			<p><a href="#">Learn About Sigma Phi Delta</a></p>
+	      </div>
+		  <div class="col-md-4">
+			<h3>University of Missouri Colony</h3>
+			<p>Learn More About Our Specific Colony.</p>
+			<p><a href="#">The Mizzou Colony</a></p>
+		  </div>
+		  <div class="col-md-4">
+			<h3>Policies</h3>
+			<p>Learn About Our Policies</p>
+			<p><a href="#">Policies</a></p>
+		  </div>
+	    </div>
+	  </div>
+	</div>
+	</body>
+
+</html>
