@@ -1,29 +1,28 @@
 <!DOCTYPE html>
 <html>
-
 	<head>
-	<link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css"/>
-    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css"/>
-    <link rel="stylesheet" href="contactcss.css"/>
-	<link rel="shortcut icon" href="icon.ico"/>
+		<link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css"/>
+		<link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css"/>
+		<link rel="stylesheet" href="contactcss.css"/>
+		<link rel="shortcut icon" href="icon.ico"/>
 	</head>
 	
 <title>Contact - &#931 &#934 &#916 Mizzou</title>
 
 	<body>
 		<div class="nav">
-      <div class="container">
-       <ul class="pull-left">
-          <li><a href="#">Log In</a></li>
-          <li><a href="#">Alumni</a></li>
-        </ul>
-        <ul class="pull-right">
-          <li><a href="#">Join Sigma Phi Delta</a></li>
-          <li><a href="#">Parents</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </div>
-    </div>
+		<div class="container">
+		<ul class="pull-left">
+        		<li><a href="#">Log In</a></li>
+        		<li><a href="#">Alumni</a></li>
+        	</ul>
+        	<ul class="pull-right">
+        		<li><a href="#">Join Sigma Phi Delta</a></li>
+        		<li><a href="#">Parents</a></li>
+        		<li><a href="#">Contact</a></li>
+        	</ul>
+        	</div>
+        	</div>
 	
 	<div class = "head">
 		<div class = "container">
